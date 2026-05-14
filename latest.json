@@ -1,0 +1,18 @@
+{
+  "appId": "zd2-desktop",
+  "version": "0.1.0",
+  "publishedAt": "2026-05-14T10:50:00+08:00",
+  "mandatory": false,
+  "releaseNotes": "初始更新通道测试版本",
+  "installer": {
+    "fileName": "ZD2-Setup-0.1.0.exe",
+    "sha256": "",
+    "size": 0,
+    "mirrors": {
+      "gitee": "https://gitee.com/你的用户名/你的更新仓库/releases/download/v0.1.0/ZD2-Setup-0.1.0.exe",
+      "r2": "https://update.你的域名/zd2/v0.1.0/ZD2-Setup-0.1.0.exe",
+      "github": "https://github.com/你的用户名/你的更新仓库/releases/download/v0.1.0/ZD2-Setup-0.1.0.exe"
+    }
+  },
+  "website": "https://你的官网/download"
+}
