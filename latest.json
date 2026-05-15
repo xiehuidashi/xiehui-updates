@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "appId": "xiehui-desktop",
   "channel": "stable",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "publishedAt": "2026-05-14T10:50:00+08:00",
   "mandatory": false,
   "minSupportedVersion": "0.0.0",
